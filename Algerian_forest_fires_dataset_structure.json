@@ -1,16 +1,36 @@
 {
-"day": "day",
-"month": "month", 
-"year": "year",
-"Temperature" : "temperature noon (temperature max) in Celsius degrees",
-" RH": "Relative Humidity in %: 21 to 90",
-" Ws": "Wind speed in km/h: 6 to 29",
-"Rain": "total day in mm: 0 to 16.8",
-"FFMC": "Fine Fuel Moisture Code index from the FWI system: 28.6 to 92.5",
-"DMC": "Duff Moisture Code index from the FWI system: 1.1 to 65.9",
-"DC": "Drought Code index from the FWI system: 7 to 220.4",
-"ISI": "Initial Spread Index index from the FWI system: 0 to 18.5",
-"BUI": "Buildup Index index from the FWI system: 1.1 to 68",
-"FWI": "Fire Weather Index Index: 0 to 31.1",
-"Classes": "two classes, namely Fire and not Fire"
+"name":
+{
+"row1": "day",
+"row2": "month", 
+"row3": "year",
+"row4": "Temperature",
+"row5": " RH",
+"row6": " Ws",
+"row7": "Rain",
+"row8": "FFMC",
+"row9": "DMC",
+"row10": "DC",
+"row11": "ISI",
+"row12": "BUI",
+"row13": "FWI",
+"row14":"Classes"
+},
+"description":
+{
+"row1": "day",
+"row2": "month", 
+"row3": "year",
+"row4": "temperature noon (temperature max) in Celsius degrees",
+"row5": "Relative Humidity in %: 21 to 90",
+"row6": "Wind speed in km/h: 6 to 29",
+"row7": "total day in mm: 0 to 16.8",
+"row8": "Fine Fuel Moisture Code index from the FWI system: 28.6 to 92.5",
+"row9": "Duff Moisture Code index from the FWI system: 1.1 to 65.9",
+"row10":"Drought Code index from the FWI system: 7 to 220.4",
+"row11":"Initial Spread Index index from the FWI system: 0 to 18.5",
+"row12":"Buildup Index index from the FWI system: 1.1 to 68",
+"row13":"Fire Weather Index Index: 0 to 31.1",
+"row14":"two classes, namely Fire and not Fire"
+}
 }
