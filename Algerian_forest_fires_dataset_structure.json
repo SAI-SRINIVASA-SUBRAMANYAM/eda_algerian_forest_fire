@@ -1,36 +1,35 @@
 {
-"name":
-{
-"row1": "day",
-"row2": "month", 
-"row3": "year",
-"row4": "Temperature",
-"row5": " RH",
-"row6": " Ws",
-"row7": "Rain",
-"row8": "FFMC",
-"row9": "DMC",
-"row10": "DC",
-"row11": "ISI",
-"row12": "BUI",
-"row13": "FWI",
-"row14":"Classes"
+"name": {
+"1": "day",
+"2": "month", 
+"3": "year",
+"4": "Temperature",
+"5": " RH",
+"6": " Ws",
+"7": "Rain",
+"8": "FFMC",
+"9": "DMC",
+"10": "DC",
+"11": "ISI",
+"12": "BUI",
+"13": "FWI",
+"14":"Classes",
+"15":"region"
 },
-"description":
-{
-"row1": "day",
-"row2": "month", 
-"row3": "year",
-"row4": "temperature noon (temperature max) in Celsius degrees",
-"row5": "Relative Humidity in %: 21 to 90",
-"row6": "Wind speed in km/h: 6 to 29",
-"row7": "total day in mm: 0 to 16.8",
-"row8": "Fine Fuel Moisture Code index from the FWI system: 28.6 to 92.5",
-"row9": "Duff Moisture Code index from the FWI system: 1.1 to 65.9",
-"row10":"Drought Code index from the FWI system: 7 to 220.4",
-"row11":"Initial Spread Index index from the FWI system: 0 to 18.5",
-"row12":"Buildup Index index from the FWI system: 1.1 to 68",
-"row13":"Fire Weather Index Index: 0 to 31.1",
-"row14":"two classes, namely Fire and not Fire"
+"description": {
+"1": "day",
+"2": "month", 
+"3": "year",
+"4": "temperature noon (temperature max) in Celsius degrees",
+"5": "Relative Humidity in %: 21 to 90",
+"6": "Wind speed in km/h: 6 to 29",
+"7": "total day in mm: 0 to 16.8",
+"8": "Fine Fuel Moisture Code index from the FWI system: 28.6 to 92.5",
+"9": "Duff Moisture Code index from the FWI system: 1.1 to 65.9",
+"10":"Drought Code index from the FWI system: 7 to 220.4",
+"11":"Initial Spread Index index from the FWI system: 0 to 18.5",
+"12":"Buildup Index index from the FWI system: 1.1 to 68",
+"13":"Fire Weather Index Index: 0 to 31.1",
+"14":"region where forest fire took place"
 }
 }
