@@ -1,4 +1,4 @@
-# eda_algerian_forest_fire
+# Explorative Data Analysis on Algerian forest fire (case study)
 
 ## This repository is meant to learn and understand the explorative data analysis, using Algerian Forest Fire case study
 
