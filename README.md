@@ -4,6 +4,6 @@
 
 
 * This includes the understanding of following
-** Feature analysis duplicates, missing values, removal on unused columns\
-** Sample of one hot encoding
-** Ploting graphs
+1. Feature analysis duplicates, missing values, removal on unused columns\
+2. Sample of one hot encoding
+3. Ploting graphs
